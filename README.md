@@ -17,12 +17,14 @@ Math concepts can be explored in a variety of ways using a flexible set of tools
 * Windows operating system 32/64 bit.
 * Resolution : 1600*900
 
-## How to use?
+## How to setup the application?
 * Download MathBoard.exe installer.
 * Begin the installation of MathBoard.exe.
 * Use password as "harshit"
 * Now, The application can be installed.
 
 After successful installation, you are all set to use the application. For better understanding, I've also provided a demo video.
+
+## How to use the application
 
 
