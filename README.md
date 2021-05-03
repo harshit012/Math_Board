@@ -25,6 +25,8 @@ Math concepts can be explored in a variety of ways using a flexible set of tools
 
 After successful installation, you are all set to use the application. For better understanding, I've also provided a demo video.
 
-## How to use the application
+## Some Outputs
+
+
 
 
