@@ -26,7 +26,23 @@ Math concepts can be explored in a variety of ways using a flexible set of tools
 After successful installation, you are all set to use the application. For better understanding, I've also provided a demo video.
 
 ## Some Outputs
+### Creating multiple copies of components like: Rectangle,ellipse & line.
 
+![one](https://user-images.githubusercontent.com/55887060/116863551-7b00d280-abd4-11eb-9f05-6b5e5e4a57ca.PNG)
+__________________________________________________________________________________________________________________________
+### Graph View & Calculator
+
+![two](https://user-images.githubusercontent.com/55887060/116863748-be5b4100-abd4-11eb-8ff4-2a52927ad9ed.PNG)
+__________________________________________________________________________________________________________________________
+
+### Lined page view & Math symbols
+
+![three](https://user-images.githubusercontent.com/55887060/116863875-f06ca300-abd4-11eb-90b7-70522502f6a6.PNG)
+__________________________________________________________________________________________________________________________
+### Importing an image & drawing over it with pen tool
+
+![four](https://user-images.githubusercontent.com/55887060/116863936-0b3f1780-abd5-11eb-94c6-943931a145b9.PNG)
+__________________________________________________________________________________________________________________________
 
 
 
